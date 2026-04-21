@@ -1,0 +1,695 @@
+2026.04.21 22:33:07 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\lenovo\Desktop\obekt\lab11' for client Visual Studio Code 1.116.0.
+2026.04.21 22:33:07 INFO  Memory monitor started
+2026.04.21 22:33:08 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.21 22:33:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.21 22:33:09 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.04.21 22:33:09 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Apr 21, 2026 10:33:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.21 22:33:09 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Apr 21, 2026 10:33:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2026.04.21 22:33:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+Apr 21, 2026 10:33:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2026.04.21 22:33:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:21 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:24 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:24 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:24 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:25 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:26 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:29 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:29 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:31 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:40 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:40 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:40 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:33:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+Apr 21, 2026 10:33:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+2026.04.21 22:34:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:06 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:34:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:23 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:24 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:25 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:25 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:25 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:25 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:31 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:31 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:37 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:37 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:40 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:40 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:44 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:55 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:34:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:01 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:01 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:07 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:11 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:11 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:12 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:12 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:13 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:15 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:15 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:16 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:16 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+Apr 21, 2026 10:35:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 321
+2026.04.21 22:35:29 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:29 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:30 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:35:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:31 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:35:31 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:35:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:32 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.21 22:35:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:42 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:42 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:42 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:47 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:47 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:47 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:47 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:51 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:51 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:55 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:55 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:55 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:35:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:36:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:36:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:36:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:09 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.21 22:36:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:08 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:09 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:09 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:12 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:13 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.21 22:36:13 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:36:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:36:14 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:36:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:36:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:36:16 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:37:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/lenovo/Desktop/obekt/lab11/lab11-logging/target/classes/com/lab11/BankAccount.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Apr 21, 2026 10:37:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/lenovo/Desktop/obekt/lab11/lab11-logging/target/classes/com/lab11/BankAccount.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Apr 21, 2026 10:37:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/lenovo/Desktop/obekt/lab11/lab11-logging/target/classes/com/lab11/Customer.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Apr 21, 2026 10:37:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/lenovo/Desktop/obekt/lab11/lab11-logging/target/classes/com/lab11/Customer.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+Apr 21, 2026 10:37:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/lenovo/Desktop/obekt/lab11/lab11-logging/target/classes/com/lab11/Main.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:225)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.04.21 22:38:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:38:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 480
+2026.04.21 22:38:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:21 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:22 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:26 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:26 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:26 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:29 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:37 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:38 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:40 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:42 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:43 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:48 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:51 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:51 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:51 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:51 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:53 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:54 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:55 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:56 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:56 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:56 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:38:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 656
+2026.04.21 22:38:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:58 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:38:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:01 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:02 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:06 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:39:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:10 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:10 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.21 22:39:10 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:10 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:10 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:10 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:13 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:13 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:14 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.21 22:39:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:15 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.21 22:39:15 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:15 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.21 22:39:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:17 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:39:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:17 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:39:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:39:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:19 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:39:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:39:19 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:39:19 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:41:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:04 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:41:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:41:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 747
+2026.04.21 22:41:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:06 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:09 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:12 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:17 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:32 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:41:34 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:42:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:42:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:42:52 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:42:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:43:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 21, 2026 10:43:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.21 22:43:28 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:43:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:45:07 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:45:07 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:45:07 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:46:13 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:46:14 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:46:14 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:46:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:46:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:27 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:46:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:28 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:46:28 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:29 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:46:29 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:30 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:46:30 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:35 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:46:35 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:46:39 INFO  Shutting down server
+2026.04.21 22:46:39 INFO  Memory monitor stopped
+2026.04.21 22:46:39 INFO  shutting down Metals
+2026.04.21 22:46:39 INFO  Exiting server
+2026.04.21 22:46:39 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+
+2026.04.21 22:52:24 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\lenovo\Desktop\obekt\lab11' for client Visual Studio Code 1.116.0.
+2026.04.21 22:52:24 INFO  Memory monitor started
+2026.04.21 22:52:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.21 22:52:26 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:27 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:36 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+Apr 21, 2026 10:52:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.04.21 22:52:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:52:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.04.21 22:52:36 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:39 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:52:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:39 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:52:41 INFO  time: code lens generation in 2s
+2026.04.21 22:52:41 INFO  time: code lens generation in 2s
+2026.04.21 22:52:45 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:50 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:52:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:52 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:52:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:52 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:57 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java
+2026.04.21 22:52:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:52:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2026.04.21 22:52:57 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:52:59 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+Apr 21, 2026 10:53:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+Apr 21, 2026 10:53:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 39
+2026.04.21 22:53:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:53:00 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:53:01 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:53:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:53:18 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:53:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
