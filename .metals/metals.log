@@ -693,3 +693,12 @@ WARNING: Unmatched cancel notification for request id 39
 2026.04.21 22:53:04 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
 2026.04.21 22:53:18 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
 2026.04.21 22:53:20 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\Main.java. Using fallback presentation compiler.
+2026.04.21 22:56:39 WARN  no build target for: C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java
+2026.04.21 22:56:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:56:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:56:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:56:39 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:56:41 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:56:49 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:57:33 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.21 22:58:01 INFO  no build target found for C:\Users\lenovo\Desktop\obekt\lab11\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
